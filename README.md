@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Mannan Khan</h1>
 <h3 align="center">from NITW, A passionate computer science & engineering student from India</h3>
 
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/abdmankhan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
