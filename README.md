@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdmankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdmankhan" height="30" width="40" /></a>
 <a href="https://kaggle.com/sonulkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sonulkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/abdmankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdmankhan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/v2khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="v2khan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/abdmankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/abdmankhan" height="30" width="40" /></a>
 </p>
